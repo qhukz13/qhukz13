@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vova 👋
 
-<!--
-**qhukz13/qhukz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Learning Python  
+🤖 Exploring Neural Networks and AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Beginner Python developer
+- Interested in AI and neural networks
+- Learning by building small projects
+- Improving my coding skills step by step
+
+---
+
+## Currently Learning
+- Python basics and practice
+- NumPy & Pandas
+- Machine Learning fundamentals
+
+---
+
+## Goals
+- Write clean and understandable code
+- Build useful Python projects
+- Learn how neural networks work
+
+---
+
+⭐ Thanks for visiting my profile!
