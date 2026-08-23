@@ -99,11 +99,13 @@ I keep a structured AI/ML curriculum (an Obsidian vault + Jupyter notebooks) and
 
 Design-first — architecture docs and ADRs lead the code · humans stay in the loop · untrusted content is data, never instructions · tests and security suites are merge gates, not suggestions
 
-## 📊 GitHub
+## 📊 Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="qhukz13's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&hide_border=true&theme=transparent&langs_count=8&exclude_repo=SCRAPSHIFT" alt="Top languages" />
+
+[![Asterim](https://img.shields.io/github/last-commit/qhukz13/Asterim?style=for-the-badge&logo=github&logoColor=white&label=Asterim&labelColor=0D1117&color=1F6FEB)](https://github.com/qhukz13/Asterim)
+[![asterim-pipeline](https://img.shields.io/github/last-commit/qhukz13/asterim-pipeline?style=for-the-badge&logo=github&logoColor=white&label=asterim-pipeline&labelColor=0D1117&color=1F6FEB)](https://github.com/qhukz13/asterim-pipeline)
+
 </div>
 
 ---
