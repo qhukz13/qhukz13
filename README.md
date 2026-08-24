@@ -25,7 +25,7 @@ A local-first control plane that brings multi-agent orchestration directly into 
 
 `TypeScript` · `React` · `Fastify` · `pnpm + Turborepo monorepo` · `Docker` · `GitHub Actions`
 
-### ORACLE — a local-first personal AI agent that never gets unsupervised root <sub>🔒 private while it grows</sub>
+### [ORACLE](https://github.com/qhukz13/ORACLE) — a local-first personal AI agent that never gets unsupervised root <sub>🔒 private while it grows</sub>
 
 Not "a chatbot with shell access" — a small orchestrator that understands intent, routes work to the cheapest competent executor, and reports back, while every side effect passes through a policy layer that can refuse.
 
