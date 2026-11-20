@@ -2,20 +2,16 @@
 
 # qhukz
 
-Local-first AI dev tooling. Agents, RAG, guardrails.
+### Local-first AI dev tooling. Agents, RAG, guardrails. Systems programming.
 
-![Location](https://img.shields.io/badge/Ukraine-161b22?style=flat-square&logo=googlemaps&logoColor=c9d1d9)
-![Focus](https://img.shields.io/badge/AI_agents-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9)
-![Learning](https://img.shields.io/badge/learning-ML_from_scratch-161b22?style=flat-square&labelColor=0d1117)
-[![Email](https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9)](mailto:v.onashchuk@gmail.com)
-
-</div>
+<img height="24" src="https://img.shields.io/badge/Ukraine-161b22?style=flat-square&logo=googlemaps&logoColor=c9d1d9" />
+<img height="24" src="https://img.shields.io/badge/AI_agents-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9" />
+<img height="24" src="https://img.shields.io/badge/learning-ML_from_scratch-161b22?style=flat-square&labelColor=0d1117" />
+<a href="mailto:v.onashchuk@gmail.com"><img height="24" src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" /></a>
 
 <br>
 
-### Stack
-
-<div align="center">
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -29,10 +25,12 @@ Local-first AI dev tooling. Agents, RAG, guardrails.
 ![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tauri](https://img.shields.io/badge/Tauri-161b22?style=for-the-badge&logo=tauri&logoColor=24C8D8)
 ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=4DA9E0)
+
 ![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![pnpm](https://img.shields.io/badge/pnpm-161b22?style=for-the-badge&logo=pnpm&logoColor=F69220)
 ![Turborepo](https://img.shields.io/badge/Turborepo-161b22?style=for-the-badge&logo=turborepo&logoColor=EF4444)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=c9d1d9)
 
 ![Ollama](https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=c9d1d9)
 ![ONNX](https://img.shields.io/badge/ONNX-161b22?style=for-the-badge&logo=onnx&logoColor=c9d1d9)
@@ -40,35 +38,35 @@ Local-first AI dev tooling. Agents, RAG, guardrails.
 ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Obsidian](https://img.shields.io/badge/Obsidian-161b22?style=for-the-badge&logo=obsidian&logoColor=A88BFA)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=c9d1d9)
-
-</div>
 
 <br>
 
-### Projects
+## Projects
 
-<div align="center">
+### [Asterim](https://github.com/qhukz13/Asterim)
+Control plane for autonomous coding agents. Nothing runs without your approval.
 
-<a href="https://github.com/qhukz13/Asterim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qhukz13&repo=Asterim&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&description_lines_count=2" /></a>
-<a href="https://github.com/qhukz13/asterim-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qhukz13&repo=asterim-pipeline&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&description_lines_count=2" /></a>
-<a href="https://github.com/qhukz13/void"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qhukz13&repo=void&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&description_lines_count=2" /></a>
-<a href="https://github.com/qhukz13/QZeditor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qhukz13&repo=QZeditor&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&description_lines_count=2" /></a>
-<a href="https://github.com/qhukz13/QSM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qhukz13&repo=QSM&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&description_lines_count=2" /></a>
+### ORACLE &nbsp;<img src="https://img.shields.io/badge/private-161b22?style=flat-square" />
+Personal AI agent. Small local router, hybrid RAG, policy layer between the model and your system.
 
-![ORACLE](https://img.shields.io/badge/ORACLE-private_local_AI_agent-161b22?style=flat-square&labelColor=0d1117&logo=python&logoColor=c9d1d9)
+### [asterim-pipeline](https://github.com/qhukz13/asterim-pipeline)
+Orchestrator, coder, tester. A CI/CD loop for agents with human gates.
 
-</div>
+### [THE VOID](https://github.com/qhukz13/void)
+An infinite shared world where every object is live HTML, CSS and JS.
+
+### [QZeditor](https://github.com/qhukz13/QZeditor) &nbsp;·&nbsp; [QSM](https://github.com/qhukz13/QSM)
+Systems programming practice. A text editor in C and a process monitor in Rust.
 
 <br>
 
-### Activity
+## Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=8&exclude_repo=SCRAPSHIFT" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=qhukz13&theme=transparent&hide_border=true&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=30363d" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qhukz13&bg_color=00000000&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&hide_border=true&title_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=8&exclude_repo=SCRAPSHIFT" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=qhukz13&theme=transparent&hide_border=true&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=30363d" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qhukz13&bg_color=00000000&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&hide_border=true&title_color=c9d1d9" />
+
 </div>
