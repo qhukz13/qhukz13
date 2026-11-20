@@ -2,12 +2,12 @@
 
 # qhukz
 
-### Local-first AI dev tooling. Agents, RAG, guardrails. Systems programming.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&height=40&lines=Local-first+AI+dev+tooling;Agents%2C+RAG%2C+guardrails;Systems+programming;Learning+ML+from+scratch" />
+  <img alt="Local-first AI dev tooling. Agents, RAG, guardrails. Systems programming. Learning ML from scratch." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=1F2328&center=true&vCenter=true&width=600&height=40&lines=Local-first+AI+dev+tooling;Agents%2C+RAG%2C+guardrails;Systems+programming;Learning+ML+from+scratch" />
+</picture>
 
-<img height="24" src="https://img.shields.io/badge/Ukraine-161b22?style=flat-square&logo=googlemaps&logoColor=c9d1d9" />
-<img height="24" src="https://img.shields.io/badge/AI_agents-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9" />
-<img height="24" src="https://img.shields.io/badge/learning-ML_from_scratch-161b22?style=flat-square&labelColor=0d1117" />
-<a href="mailto:v.onashchuk@gmail.com"><img height="24" src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" /></a>
+<sub>Ukraine &nbsp;·&nbsp; <a href="mailto:v.onashchuk@gmail.com">v.onashchuk@gmail.com</a></sub>
 
 <br>
 
@@ -43,30 +43,39 @@
 
 ## Projects
 
-### [Asterim](https://github.com/qhukz13/Asterim)
-Control plane for autonomous coding agents. Nothing runs without your approval.
-
-### ORACLE &nbsp;<img src="https://img.shields.io/badge/private-161b22?style=flat-square" />
-Personal AI agent. Small local router, hybrid RAG, policy layer between the model and your system.
-
-### [asterim-pipeline](https://github.com/qhukz13/asterim-pipeline)
-Orchestrator, coder, tester. A CI/CD loop for agents with human gates.
-
-### [THE VOID](https://github.com/qhukz13/void)
-An infinite shared world where every object is live HTML, CSS and JS.
-
-### [QZeditor](https://github.com/qhukz13/QZeditor) &nbsp;·&nbsp; [QSM](https://github.com/qhukz13/QSM)
-Systems programming practice. A text editor in C and a process monitor in Rust.
+<a href="https://github.com/qhukz13/Asterim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/asterim-dark.svg" /><img alt="Asterim" width="400" src="assets/projects/asterim-light.svg" /></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/oracle-dark.svg" /><img alt="ORACLE (private)" width="400" src="assets/projects/oracle-light.svg" /></picture>
+<a href="https://github.com/qhukz13/asterim-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/asterim-pipeline-dark.svg" /><img alt="asterim-pipeline" width="400" src="assets/projects/asterim-pipeline-light.svg" /></picture></a>
+<a href="https://github.com/qhukz13/void"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/void-dark.svg" /><img alt="THE VOID" width="400" src="assets/projects/void-light.svg" /></picture></a>
+<a href="https://github.com/qhukz13/QZeditor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/qzeditor-dark.svg" /><img alt="QZeditor" width="400" src="assets/projects/qzeditor-light.svg" /></picture></a>
+<a href="https://github.com/qhukz13/QSM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/qsm-dark.svg" /><img alt="QSM" width="400" src="assets/projects/qsm-light.svg" /></picture></a>
 
 <br>
 
 ## Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=8&exclude_repo=SCRAPSHIFT" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=qhukz13&theme=transparent&hide_border=true&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=30363d" />
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qhukz13&bg_color=00000000&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&hide_border=true&title_color=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&rank_icon=github" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=qhukz13&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&icon_color=59636e&text_color=59636e&rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=8&exclude_repo=SCRAPSHIFT" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhukz13&layout=compact&theme=transparent&hide_border=true&title_color=1f2328&text_color=59636e&langs_count=8&exclude_repo=SCRAPSHIFT" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=qhukz13&theme=transparent&hide_border=true&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=30363d" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=qhukz13&theme=transparent&hide_border=true&ring=59636e&fire=1f2328&currStreakLabel=1f2328&sideLabels=59636e&currStreakNum=1f2328&sideNums=1f2328&dates=818b98&stroke=d0d7de" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qhukz13&bg_color=00000000&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&hide_border=true&title_color=c9d1d9" />
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=qhukz13&bg_color=00000000&color=59636e&line=1f2328&point=1f2328&area=true&area_color=59636e&hide_border=true&title_color=1f2328" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhukz13/qhukz13/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/qhukz13/qhukz13/output/snake-light.svg" />
+</picture>
 
 </div>
