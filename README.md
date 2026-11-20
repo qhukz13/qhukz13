@@ -36,4 +36,11 @@
 ![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=e6edf3)
 ![Zed](https://img.shields.io/badge/Zed-0d1117?style=for-the-badge&logo=zedindustries&logoColor=e6edf3)
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhukz13/qhukz13/output/snake-dark.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/qhukz13/qhukz13/output/snake-light.svg" />
+</picture>
+
 </div>

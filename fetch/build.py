@@ -93,25 +93,35 @@ PAD = 40
 ART_FS, ART_LH = 10, 11
 ART_W = W - 2 * PAD - 40          # art drawn into a fixed width, any font
 FS, LH = 14, 21
-COL = 50                          # characters per info line
-COL_X = (PAD, W // 2 + 10)
+CW = FS * 0.6                     # nominal monospace advance
+COLW = 420                        # width of one info column in px
+COL_X = (PAD, W - PAD - COLW)     # columns line up with the art frame
+
+
+def fixed(x, y, text, fill, anchor="start", weight=None):
+    """Text forced to an exact monospace width, so any fallback font lines up."""
+    w = f' font-weight="{weight}"' if weight else ""
+    return (f'<text x="{x:.1f}" y="{y}" fill="{fill}" text-anchor="{anchor}"{w} textLength="{len(text) * CW:.1f}" '
+            f'lengthAdjust="spacingAndGlyphs" xml:space="preserve">{escape(text)}</text>')
+
+
+def leader(x1, x2, y, c, dotted=True):
+    dash = ' stroke-dasharray="0.01 6" stroke-linecap="round" stroke-width="2"' if dotted else ' stroke-width="1"'
+    return f'<line x1="{x1:.1f}" y1="{y}" x2="{x2:.1f}" y2="{y}" stroke="{c["dots"]}"{dash}/>'
 
 
 def row(x, y, key, value, c):
-    dots = COL - len(key) - len(value) - 4
-    return (
-        f'<text x="{x}" y="{y}" xml:space="preserve">'
-        f'<tspan fill="{c["key"]}">{escape(key)}</tspan><tspan fill="{c["dots"]}">: {"." * dots} </tspan>'
-        f'<tspan fill="{c["value"]}">{escape(value)}</tspan></text>'
-    )
+    k_end = x + (len(key) + 1) * CW
+    v_start = x + COLW - len(value) * CW
+    return "".join((
+        fixed(x, y, key + ":", c["key"]),
+        leader(k_end + CW, v_start - CW, y - 4, c),
+        fixed(x + COLW, y, value, c["value"], anchor="end"),
+    ))
 
 
 def header(x, y, title, c):
-    rule = "—" * (COL - len(title) - 1)
-    return (
-        f'<text x="{x}" y="{y}" xml:space="preserve"><tspan fill="{c["head"]}" font-weight="700">{escape(title)}</tspan>'
-        f'<tspan fill="{c["dots"]}"> {rule}</tspan></text>'
-    )
+    return fixed(x, y, title, c["head"], weight=700) + leader(x + (len(title) + 1) * CW, x + COLW, y - 5, c, dotted=False)
 
 
 def render(theme, about, gh):
